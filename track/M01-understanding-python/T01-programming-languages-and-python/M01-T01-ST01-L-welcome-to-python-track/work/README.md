@@ -24,4 +24,4 @@ Programming means:the instructions given to computer to perform any task
 
 Python is: a high level language which is simple and easy to learn
 
-In this track, I will learn:python fullstuck development
+In this track, I will learn:python fullstack development
