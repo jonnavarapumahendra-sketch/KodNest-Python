@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+I am Mahendra
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learn how to write psudocodes and fundamental concepts of programming language
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+python is simple and easy to learn it is versatile language 
 
 ## My Career Goal
 
-Write the role you want to achieve.
+currently first  i want to get a software engineer job and long term i want to get a job in AI
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences:what is fork and clone ,how to create repository
 
-Programming means:
+Programming means:the instructions given to computer to perform any task
 
-Python is:
+Python is: a high level language which is simple and easy to learn
 
-In this track, I will learn:
+In this track, I will learn:python fullstuck development
